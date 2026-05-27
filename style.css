@@ -14,9 +14,9 @@
 
 :root {
     /* Core Brand Colors */
-    --navy:          #0d1f3c;
-    --navy-mid:      #162d52;
-    --navy-light:    #1e3d6e;
+    --navy:          #18436f;
+    --navy-mid:      #1e2126;
+    --navy-light:    #3d434e;
     --orange:        #e8611a;
     --orange-bright: #ff7a30;
     --orange-dark:   #c24e10;
@@ -125,7 +125,7 @@ nav {
     width: auto;
     object-fit: contain;
     display: block;
-    filter: drop-shadow(0 2px 8px rgba(232,97,26,0.25));
+    filter: drop-shadow(0 2px 8px rgba(79, 76, 74, 0.25));
     transition: transform var(--ease), filter var(--ease);
 }
 
